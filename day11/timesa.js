@@ -1,4 +1,4 @@
-let a = [3,4,3,6,4,4,6,8];
+let a = ['a','a','c','d','c','a','b'];
 let n = a.length;
 for(let i = 0; i<n; i++){
   if(a.indexOf(a[i]==i)){
